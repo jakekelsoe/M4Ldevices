@@ -6,6 +6,7 @@ A collection of the Max for Live effects and instruments I have built.
 
 ### DEVICES:
 **GRANULAR DELAY**
+
 The granular delay takes small snippets of the incoming signal and randomly plays them back within a range of time. The delay knob controls the max amount of time between the random grains. Length corresponds to the total time the grains will play for. The killswitch will instantly kill the output.
 
 **GRANULAR SYNTH**
