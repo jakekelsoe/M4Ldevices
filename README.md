@@ -1,6 +1,6 @@
 # ~ M4L Devices ~
 
-A few Max for Live effects and instruments I have built.
+A collection of the Max for Live effects and instruments I have built.
 
 **-------------------------------------------------------------------------------------------**
 
