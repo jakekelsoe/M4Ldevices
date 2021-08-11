@@ -5,6 +5,10 @@ A collection of the Max for Live effects and instruments I have built.
 **-------------------------------------------------------------------------------------------**
 
 ### DEVICES:
+**PROCEDURAL MIDI GENERATOR:**
+
+A Max MIDI effect for Ableton Live that generates random note values plus or minus one octave given a tonic pitch and type of musical scale. Ranges of values can be used to control the time interval between notes, the duration of the notes, and the note velocity. The FREEZE function allows for MIDI note repetition, controlled by the Freeze Rate within a range of 1ms to 1000ms.
+
 **GRANULAR DELAY:**
 
 The granular delay takes small snippets of the incoming signal and randomly plays them back within a range of time. The delay knob controls the max amount of time between the random grains. Length corresponds to the total time the grains will play for. The killswitch will instantly kill the output.
